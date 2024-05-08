@@ -1,5 +1,6 @@
 # Evaluating Differences in Public Sentiment Surrounding the Nvidia Stock Across Politically-Divergent Social Media Platforms
 
+The paper is entitled `paper.pdf`.
 
 ### Guide to Repository
 
