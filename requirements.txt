@@ -1,0 +1,18 @@
+gensim
+collections-extended
+pandas
+warnings
+logging
+pickle5
+time
+re
+math
+typing
+matplotlib
+networkx
+spacy
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0.tar.gz
+nltk
+requests
+beautifulsoup4
+twscrape
